@@ -1,6 +1,6 @@
 <div align="center">
 
-# James Rouse
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=1700&pause=700&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder" alt="Typing SVG: James Rouse"/>
 
 ### Bioinformatics software developer building reproducible genomics pipelines, HPC workflows, and interactive analysis apps.
 
@@ -16,26 +16,40 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jamesrouse1&style=flat-square&color=0f766e" alt="Profile views"/>
-</p>
-
 </div>
 
 ---
 
 ## Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/jamesrouse1/CodeSpringLab">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesrouse1&repo=CodeSpringLab&theme=default&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="CodeSpringLab repository card"/>
-</a>
-<a href="https://github.com/jamesrouse1/CodeSpringApp">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesrouse1&repo=CodeSpringApp&theme=default&hide_border=true&title_color=0f172a&text_color=334155&icon_color=2563eb" alt="CodeSpringApp repository card"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/jamesrouse1/CodeSpringLab">CodeSpringLab</a></h3>
+      <p>Reproducible sequencing workflows for RNA-seq, ATAC-seq, ChIP-seq, QC, alignment, counting, differential analysis, enrichment, logs, and reference tracking.</p>
+      <p>
+        <code>RNA-seq</code>
+        <code>ATAC-seq</code>
+        <code>ChIP-seq</code>
+        <code>SLURM</code>
+        <code>R</code>
+        <code>Python</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/jamesrouse1/CodeSpringApp">CodeSpringApp</a></h3>
+      <p>A Shiny-based control center for CodeSpringLab projects with project setup, design matrices, job submission, progress tracking, logs, methods, and embedded results exploration.</p>
+      <p>
+        <code>Shiny</code>
+        <code>HPC</code>
+        <code>sbatch</code>
+        <code>QC</code>
+        <code>DESeq2</code>
+        <code>GSEA</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About
 
@@ -65,42 +79,3 @@ My work sits at the intersection of **bioinformatics, scientific software engine
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux"/>
 </p>
-
-## Current Projects
-
-### CodeSpringLab
-
-A sequencing analysis framework for running reproducible bulk RNA-seq, ATAC-seq, and ChIP-seq workflows with standardized setup, outputs, logs, reference handling, and downstream visualization.
-
-### CodeSpringApp
-
-A Shiny-based web app that turns CodeSpringLab workflows into a button-driven HPC interface with project setup, design-matrix editing, SLURM job submission, progress monitoring, logs, methods, and embedded results exploration.
-
-## Selected Workflow Stack
-
-```text
-FASTQ input
-  -> QC and trimming
-  -> genome alignment or transcript quantification
-  -> count matrix construction
-  -> differential expression / accessibility / binding analysis
-  -> enrichment analysis
-  -> interactive QC, plots, logs, and methods output
-```
-
-## Philosophy
-
-Good bioinformatics software should be:
-
-- reproducible enough to trust,
-- clear enough to debug,
-- flexible enough for real experiments,
-- and usable enough that scientists can focus on biology instead of command syntax.
-
----
-
-<div align="center">
-
-### Building tools that make computational biology cleaner, faster, and easier to share.
-
-</div>
