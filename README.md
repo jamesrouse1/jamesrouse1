@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="assets/bsr_cshl_logo.png" width="360" alt="Bioinformatics Shared Resource, Cold Spring Harbor Laboratory"/>
+<img src="assets/cshl_logo.png" width="130" alt="Cold Spring Harbor Laboratory"/>
 
 </div>
 
