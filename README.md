@@ -19,6 +19,8 @@
   </a>
 </p>
 
+<img src="assets/bsr_cshl_logo.png" width="360" alt="Bioinformatics Shared Resource, Cold Spring Harbor Laboratory"/>
+
 </div>
 
 ---
