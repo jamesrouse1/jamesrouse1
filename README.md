@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="assets/cshl_logo.png" width="130" alt="Cold Spring Harbor Laboratory"/>
+<img src="assets/affiliation_logos.png" width="760" alt="Northeastern University, Incendia Therapeutics, and Cold Spring Harbor Laboratory"/>
 
 </div>
 
