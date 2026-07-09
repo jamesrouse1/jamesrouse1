@@ -92,10 +92,10 @@ My work sits at the intersection of **bioinformatics, scientific software engine
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/run_pipeline.png" alt="CodeSpringApp run pipeline view"/>
+      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/run_readme.png" alt="CodeSpringApp run pipeline view"/>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/progress_narrow.png" alt="CodeSpringApp progress view"/>
+      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/progress_readme.png" alt="CodeSpringApp progress view"/>
     </td>
   </tr>
   <tr>
