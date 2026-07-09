@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=4500&pause=1200&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder" alt="Typing SVG: James Rouse"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=5000&pause=1400&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder;Teaching+%2B+Scientific+Training" alt="Typing SVG: James Rouse"/>
 
 ### Bioinformatics software developer building reproducible genomics pipelines, HPC workflows, and interactive analysis apps.
 
@@ -10,6 +10,9 @@
   </a>
   <a href="https://github.com/jamesrouse1/CodeSpringApp">
     <img src="https://img.shields.io/badge/CodeSpringApp-Shiny%20HPC%20Interface-2563eb?style=for-the-badge" alt="CodeSpringApp"/>
+  </a>
+  <a href="https://github.com/jamesrouse1/BioinformaticsWorkshops">
+    <img src="https://img.shields.io/badge/BioinformaticsWorkshops-Teaching%20Materials-7c3aed?style=for-the-badge" alt="BioinformaticsWorkshops"/>
   </a>
   <a href="https://www.cshl.edu/">
     <img src="https://img.shields.io/badge/Cold%20Spring%20Harbor%20Laboratory-Bioinformatics%20Shared%20Resource-111827?style=for-the-badge" alt="Cold Spring Harbor Laboratory"/>
@@ -51,6 +54,33 @@
         <code>QC</code>
         <code>DESeq2</code>
         <code>GSEA</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/jamesrouse1/BioinformaticsWorkshops">BioinformaticsWorkshops</a></h3>
+      <p>Teaching materials for Python, R, machine learning, single-cell RNA-seq, experimental design, genomics best practices, and biostatistics.</p>
+      <p>
+        <code>Teaching</code>
+        <code>Workshops</code>
+        <code>R</code>
+        <code>Python</code>
+        <code>scRNA-seq</code>
+        <code>Statistics</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/jamesrouse1/PosterPresentations">PosterPresentations</a></h3>
+      <p>Selected scientific posters and conference presentations spanning translational cancer models, computational biology, and biomarker-focused analyses.</p>
+      <p>
+        <code>Posters</code>
+        <code>Presentations</code>
+        <code>Precision medicine</code>
+        <code>Cancer biology</code>
       </p>
     </td>
   </tr>
