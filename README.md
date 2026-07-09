@@ -14,7 +14,7 @@
   <a href="https://www.cshl.edu/">
     <img src="https://img.shields.io/badge/Cold%20Spring%20Harbor%20Laboratory-Bioinformatics%20Shared%20Resource-111827?style=for-the-badge" alt="Cold Spring Harbor Laboratory"/>
   </a>
-  <a href="https://scholar.google.com/scholar?q=%22James%20Rouse%22%20bioinformatics">
+  <a href="https://scholar.google.com/citations?user=gvGtbjkAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
@@ -51,6 +51,23 @@
         <code>GSEA</code>
       </p>
     </td>
+  </tr>
+</table>
+
+## CodeSpringApp Sneak Peek
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/run_pipeline.png" alt="CodeSpringApp run pipeline view"/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/progress.png" alt="CodeSpringApp progress view"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Run Pipeline</strong></td>
+    <td align="center"><strong>Progress Tracking</strong></td>
   </tr>
 </table>
 
