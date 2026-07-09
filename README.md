@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=4500&pause=1200&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder;Machine+Learning+%2B+Computational+Biology" alt="Typing SVG: James Rouse"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=4500&pause=1200&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder" alt="Typing SVG: James Rouse"/>
 
 ### Bioinformatics software developer building reproducible genomics pipelines, HPC workflows, and interactive analysis apps.
 
@@ -95,7 +95,7 @@ My work sits at the intersection of **bioinformatics, scientific software engine
       <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/run_pipeline.png" alt="CodeSpringApp run pipeline view"/>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/progress.png" alt="CodeSpringApp progress view"/>
+      <img width="100%" src="https://raw.githubusercontent.com/jamesrouse1/CodeSpringApp/main/docs/assets/progress_narrow.png" alt="CodeSpringApp progress view"/>
     </td>
   </tr>
   <tr>
