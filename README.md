@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=1700&pause=700&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder" alt="Typing SVG: James Rouse"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=3000&pause=900&color=0F766E&center=true&vCenter=true&width=760&height=70&lines=James+Rouse;Bioinformatics+Software+Developer;HPC+%2B+Genomics+Workflow+Builder;Machine+Learning+%2B+Computational+Biology" alt="Typing SVG: James Rouse"/>
 
 ### Bioinformatics software developer building reproducible genomics pipelines, HPC workflows, and interactive analysis apps.
 
@@ -13,6 +13,9 @@
   </a>
   <a href="https://www.cshl.edu/">
     <img src="https://img.shields.io/badge/Cold%20Spring%20Harbor%20Laboratory-Bioinformatics%20Shared%20Resource-111827?style=for-the-badge" alt="Cold Spring Harbor Laboratory"/>
+  </a>
+  <a href="https://scholar.google.com/scholar?q=%22James%20Rouse%22%20bioinformatics">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
@@ -55,7 +58,7 @@
 
 I work in the **Bioinformatics Shared Resource at Cold Spring Harbor Laboratory**, where I develop computational tools for sequencing analysis, project tracking, visualization, and reproducible research delivery.
 
-My work sits at the intersection of **bioinformatics, scientific software engineering, and HPC workflow design**. I build tools that make RNA-seq, ATAC-seq, ChIP-seq, and related genomics analyses easier to run, inspect, reproduce, and communicate.
+My work sits at the intersection of **bioinformatics, scientific software engineering, machine learning, and HPC workflow design**. I build tools that make RNA-seq, ATAC-seq, ChIP-seq, and related genomics analyses easier to run, inspect, reproduce, model, and communicate.
 
 ## What I Build
 
@@ -64,6 +67,7 @@ My work sits at the intersection of **bioinformatics, scientific software engine
 | Sequencing pipelines | RNA-seq, ATAC-seq, ChIP-seq, QC, alignment, counting, differential analysis, enrichment workflows |
 | Interactive analysis apps | Shiny interfaces for project setup, SLURM submission, logs, progress tracking, QC, plots, and results exploration |
 | HPC automation | `sbatch` submission, job recovery, per-sample status tracking, run logs, and project-specific configuration |
+| Machine learning | Predictive modeling, feature engineering, supervised learning workflows, and biologically interpretable analysis |
 | Reproducible references | GENCODE/STAR/RSEM/Kallisto reference generation, genome version tracking, and methods documentation |
 | Scientific visualization | PCA, volcano plots, heatmaps, GSEA outputs, QC summaries, and publication-oriented figures |
 
@@ -76,6 +80,9 @@ My work sits at the intersection of **bioinformatics, scientific software engine
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/SLURM-111827?style=flat-square" alt="SLURM"/>
   <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square" alt="Nextflow"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux"/>
 </p>
