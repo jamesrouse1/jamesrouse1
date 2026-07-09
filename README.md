@@ -71,6 +71,35 @@ My work sits at the intersection of **bioinformatics, scientific software engine
 | Reproducible references | GENCODE/STAR/RSEM/Kallisto reference generation, genome version tracking, and methods documentation |
 | Scientific visualization | PCA, volcano plots, heatmaps, GSEA outputs, QC summaries, and publication-oriented figures |
 
+## Additional Focus Areas
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Single-cell RNA-seq</strong>
+      <br/>
+      QC, integration, clustering, marker discovery, annotation, pathway analysis, and exploratory visualization.
+    </td>
+    <td width="50%">
+      <strong>Whole-genome and variant analysis</strong>
+      <br/>
+      WGS-oriented data handling, genome references, annotation-aware workflows, and reproducible downstream summaries.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Experimental design and statistics</strong>
+      <br/>
+      Study planning, contrasts, batch effects, covariates, differential testing, multiple-testing correction, and interpretable reporting.
+    </td>
+    <td width="50%">
+      <strong>Teaching and scientific support</strong>
+      <br/>
+      Helping researchers understand computational workflows, troubleshoot analyses, interpret outputs, and build reproducible habits.
+    </td>
+  </tr>
+</table>
+
 ## Core Toolkit
 
 <p>
